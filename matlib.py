@@ -1,0 +1,6 @@
+color = input("Enter the color name: ")
+noun = input("Enter the noun bitch:")
+cele = input("Enter your fav celebrity:")
+print("Roses are " + color)
+print(noun + " are blue")
+print("I love " + cele)
