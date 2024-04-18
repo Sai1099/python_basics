@@ -22,7 +22,8 @@ BCD = "aeiou"
 run = list(BCD)
 print(run)
 print(list(run))
-
+##for getting combine numbers in lists
+y =list(set(list1).intersection(list4))
 
 ##to insert element we have to do insert(position,element)
 lizt=[1,3,5,689,86]
